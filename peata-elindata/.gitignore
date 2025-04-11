@@ -9,9 +9,6 @@ __pycache__/
 venv/
 env/
 
-# Jupyter notebooks
-.ipynb_checkpoints/
-
 # OS & editor stuff
 .DS_Store
 *.swp
