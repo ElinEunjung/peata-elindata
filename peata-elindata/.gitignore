@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS & editor stuff
+.DS_Store
+*.swp
+
+# Data files
+*.csv
+*.xlsx
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
