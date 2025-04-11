@@ -1,6 +1,4 @@
-# peata-elindata
-
-# PEATA – Delprosjekt: GUI og databehandling
+# PEATA – Delprosjekt: GUI og filbehandling
 
 Dette er min del av PEATA-prosjektet (Packages for Easier Access To APIs), utviklet som en del av et team ved Høyskolen Kristiania våren 2024.
 
